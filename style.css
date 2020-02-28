@@ -79,12 +79,14 @@ a {
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+        -ms-flex-direction: row;
+            flex-direction: row;
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
+        max-width: 360px;
+        width: 75%;
     margin: 2% auto;
-    margin-left: 34%;
+    margin-left: 18%;
 }
 input[type="checkbox"] {
 position: absolute;
@@ -137,7 +139,7 @@ label {
     text-transform: uppercase;
     color: #6D7698;
     margin-right: auto;
-    margin: 3px 0;
+    margin: 3px auto;
 }
 .convert {
     display: block;
