@@ -38,27 +38,23 @@ a {
     z-index: -1;
 }
 .header {
-    max-height: 1em;
     font-size: 2em;
-    margin: 16% auto 0;
+    margin: 16% auto;
     color: #6D7698;
 }
 .header-sub {
-    max-height: 1em;
-    margin-top: 2%;
     text-transform: uppercase;
     font-size: 1.175 em;
     color: #F67298;
     letter-spacing: 0.15em;
-    margin: 15px 0;
+    margin: 5% 0 5%;
     margin-left: 20%;
     width: 60%;
 }
 .description {
-    max-width: 774px;
     text-align: center;
     color: #A1AACE;
-    margin: 3% auto;
+    margin: 3% auto 3%;
 }
 .url-btn {
     max-width: 320px;
@@ -68,7 +64,7 @@ a {
     background: #A1AACE;
     border-radius: 14px;
     text-align: center;
-    margin: 0 auto;
+    margin: 6% auto;
     color: #FFF;
     border: none;
     outline: 0;
@@ -143,7 +139,7 @@ label {
 }
 .convert {
     display: block;
-    margin: 4% auto;
+    margin: 9% auto;
     max-width: 295px;
     width: 100%;
     height: 48px;
@@ -160,7 +156,7 @@ label {
     color: #fff;
 }
 .bottom {
-    margin-top: 17%;
+    margin-top: 14%;
     color: #A1AACE;
 }
 .footer {
@@ -394,7 +390,7 @@ label {
         max-width: 774px;
         text-align: center;
         color: #A1AACE;
-        margin: 3% auto;
+        margin: 0 auto 3%;
     }
     .url-btn {
         max-width: 761px;
@@ -403,7 +399,7 @@ label {
         background: #A1AACE;
         border-radius: 14px;
         text-align: center;
-        margin: 0 auto;
+        margin: 0 auto 3%;
         color: #FFF;
         border: none;
         outline: 0;
@@ -493,7 +489,7 @@ label {
         color: #fff;
     }
     .bottom {
-        margin-top: 4%;
+        margin-top: 0;
         color: #A1AACE;
     }
     .footer {
