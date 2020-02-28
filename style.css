@@ -160,7 +160,7 @@ label {
     color: #fff;
 }
 .bottom {
-    margin-top: 13%;
+    margin-top: 17%;
     color: #A1AACE;
 }
 .footer {
@@ -379,7 +379,7 @@ label {
     .header {
         max-height: 1em;
         font-size: 3em;
-        margin: 2% auto 0;
+        margin: 4% auto 0;
         color: #6D7698;
     }
     .header-sub {
